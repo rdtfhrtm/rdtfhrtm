@@ -14,17 +14,17 @@ Welcome to my GitHub profile! I'm Raditya Fahritama, a data enthusiast with a Ma
 
 Here are a few highlights of my projects:
 
-- [Project 1](link): Brief description
-- [Project 2](link): Brief description
-- [Project 3](link): Brief description
+- [Pneumonia Detection Based on Chest X-Ray Images]([link](https://github.com/rdtfhrtm/pneumoniadetection))
+- [Cryptocurrency Forecasting by Sentiment Analysis]([link](https://github.com/rdtfhrtm/BitcoinForecasting))
+- [Effective Advertising Strategy]([link](https://github.com/rdtfhrtm/EffectiveAdvertising)): Brief description
 
 You can find more of my projects in the repositories below.
 
 ## Get in Touch
 
-- 📧 Feel free to reach out to me via [email](mailto:radityaf@example.com)
+- 📧 Feel free to reach out to me via [email](mailto:radityafahritama@gmail.com)
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/radityafahritama)
-- 🌐 Visit my [portfolio website](https://www.radityafahritama.com)
+- 🌐 Visit my [portfolio page](https://www.datascienceportfol.io/radityafahritama)
 
 ## Skills
 
@@ -36,7 +36,8 @@ You can find more of my projects in the repositories below.
 - Python
 - R
 - TensorFlow
-- PyTorch
+- ETL
+  
 
 ## Thank You
 
