@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Raditya Fahritama, a data enthusiast with a Ma
 
 - 🎓 I hold a Master's degree in Data Analytics
 - 💼 Currently seeking opportunities to apply my skills and knowledge in meaningful projects
-- 💻 Proficient in Python, R, SQL, and various data science libraries (e.g., Pandas, NumPy, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch)
+- 💻 Proficient in Python, R, SQL, and various data science libraries (e.g., Pandas, NumPy, SciPy, Matplotlib, Seaborn, TensorFlow)
 - 📊 Experienced in data wrangling, exploratory data analysis, machine learning, and data visualization
 - 🌱 Always eager to learn and explore new techniques and technologies in the data science domain
 
@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm Raditya Fahritama, a data enthusiast with a Ma
 
 Here are a few highlights of my projects:
 
-- [Pneumonia Detection Based on Chest X-Ray Images]([link](https://github.com/rdtfhrtm/pneumoniadetection))
-- [Cryptocurrency Forecasting by Sentiment Analysis]([link](https://github.com/rdtfhrtm/BitcoinForecasting))
-- [Effective Advertising Strategy]([link](https://github.com/rdtfhrtm/EffectiveAdvertising)): Brief description
+- [Pneumonia Detection Based on Chest X-Ray Images](https://github.com/rdtfhrtm/pneumoniadetection)
+- [Cryptocurrency Forecasting by Sentiment Analysis](https://github.com/rdtfhrtm/BitcoinForecasting)
+- [Effective Advertising Strategy](https://github.com/rdtfhrtm/EffectiveAdvertising)
 
 You can find more of my projects in the repositories below.
 
