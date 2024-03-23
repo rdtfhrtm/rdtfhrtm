@@ -23,7 +23,7 @@ You can find more of my projects in the repositories below.
 ## Get in Touch
 
 - 📧 Feel free to reach out to me via [email](mailto:radityafahritama@gmail.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/radityafahritama)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/radityatama)
 - 🌐 Visit my [portfolio page](https://www.datascienceportfol.io/radityafahritama)
 
 ## Skills
