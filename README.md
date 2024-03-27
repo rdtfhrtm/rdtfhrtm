@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Raditya Fahritama, a data enthusiast with a Ma
 
 ## About Me
 
-- 🎓 I hold a Master's degree in Data Analytics
+- 🎓 I hold a Master's degree in Data Analytics from Pennsylvania State University
 - 💼 Currently seeking opportunities to apply my skills and knowledge in meaningful projects
 - 💻 Proficient in Python, R, SQL, and various data science libraries (e.g., Pandas, NumPy, SciPy, Matplotlib, Seaborn, TensorFlow)
 - 📊 Experienced in data wrangling, exploratory data analysis, machine learning, and data visualization
