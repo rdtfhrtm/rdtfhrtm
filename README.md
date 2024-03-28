@@ -17,7 +17,7 @@ Here are a few highlights of my projects:
 - [Pneumonia Detection Based on Chest X-Ray Images](https://github.com/rdtfhrtm/pneumoniadetection)
 - [Cryptocurrency Forecasting by Sentiment Analysis](https://github.com/rdtfhrtm/BitcoinForecasting)
 - [Effective Advertising Strategy](https://github.com/rdtfhrtm/EffectiveAdvertising)
-
+- [Web Advertisement Click Prediction](https://github.com/rdtfhrtm/WebAdvertisementClickPrediction/)
 You can find more of my projects in the repositories below.
 
 ## Get in Touch
